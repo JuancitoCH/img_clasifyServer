@@ -1,0 +1,1 @@
+> Un sistema de reconocimiento de imágenes usando un módulo gRPC y un módulo TensorFlow para enviar imágenes al servidor y recibir las etiquetas que las describen.
